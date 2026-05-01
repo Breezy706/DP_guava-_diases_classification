@@ -29,7 +29,7 @@ The dataset consists of labeled images of guava fruits categorized into:
 * 🐛 **Fruit Fly**
 * 🍏 **Healthy Guava**
 
-📎 **Dataset Link:** [https://drive.google.com/drive/folders/1_4wEGc0IlYUeh4V8Tug0kJcKzhg1E0eU?usp=drive_link]
+📎 **Dataset Link:** [https://drive.google.com/drive/folders/1nDpOyDedI1SSftg0lyoqR8NzYBalplw7?usp=sharing]
 
 ---
 

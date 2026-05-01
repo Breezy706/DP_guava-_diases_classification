@@ -149,7 +149,7 @@ The model can:
 
 **BREEZY_360**
 
-📎 GitHub: [Add your GitHub profile link here]
+📎 GitHub: [https://github.com/Breezy706]
 
 ---
 
